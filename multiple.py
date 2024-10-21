@@ -1,0 +1,3 @@
+s = "Hi" * 4
+print(s)
+print("-" * 75)
